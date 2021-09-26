@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/134823775-cdb8e082-2f8a-4b72-a7c9-f29554ce1e7b.png">
   <br />
   Parallel Computing Guide
 </h1>
@@ -9,12 +9,12 @@
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/134823802-0ed82617-dad0-4313-8a4d-ac579d2bb4b8.png">
   <br />
 </p>
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/134824410-c615beef-c90e-45d5-975c-df1237671e26.png">
   <br />
 </p>
 
